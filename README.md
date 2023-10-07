@@ -25,4 +25,8 @@ Easy Shop is an online grocery store platform where users can browse products by
 - Next.js
 - MongoDB 
 - Firebase Authentication
+<<<<<<< HEAD
 - Vercel (Hosting Platform)
+=======
+- Vercel (Hosting Platform)
+>>>>>>> 60cfc02582eabd3572b9e89ea02b1516a047604a
